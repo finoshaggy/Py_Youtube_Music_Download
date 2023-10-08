@@ -25,7 +25,7 @@ Linux instalacion
 
 ¿ Como correr ?
 ----------------
-  abrir la terminal y hacer
-  - "python3 projec.py"
+  abrir la terminal y hacer:
+  - python3 projec.py
 
   
