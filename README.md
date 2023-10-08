@@ -7,7 +7,7 @@ informacion general
 
 Dependencias
 ------------
-- Python3.x
+- Python3.X
 - Pytube
 
 Linux instalacion
@@ -22,4 +22,10 @@ Linux instalacion
   # Pytube instalacion :
 
   > pip install pytube
+
+¿ Como correr ?
+----------------
+  abrir la terminal y hacer
+  - "python3 projec.py"
+
   
