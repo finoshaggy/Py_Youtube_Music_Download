@@ -15,12 +15,12 @@ Linux instalacion
 -----------------
 
   # Debian/Ubuntu :
-  ## sudo apt install python3
+  > sudo apt install python3
 
   # Arch :
-  ## sudo pacman -S python3
+  > sudo pacman -S python3
 
   # Pytube instalacion :
 
-  ## pip install pytube
+  > pip install pytube
   
