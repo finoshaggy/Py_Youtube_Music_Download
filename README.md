@@ -1,25 +1,25 @@
 # Py_Youtube_Music_Download
 
-.. contents::
-
 informacion general
 -------------------
+Un sensillo Script de Python para descargar musicas de Youtube
+con funciones como la descarga multiples de musica o solo descargar una.
 
 Dependencias
 ------------
 - Python3.X
 - Pytube
 
-Linux instalacion
+# Linux instalacion
 -----------------
 
-  # Debian/Ubuntu :
+  ## Debian/Ubuntu :
   > sudo apt install python3
 
-  # Arch :
+  ## Arch :
   > sudo pacman -S python3
 
-  # Pytube instalacion :
+  ## Pytube instalacion :
 
   > pip install pytube
 
@@ -29,7 +29,10 @@ Linux instalacion
   > abrir la terminal y hacer:
   > - python3 projec.py
 
-## ¿Como usar?
+# Importante :
 --------------
+NO BORRAR O CAMBIAR EL NOMBRE AL ARCHIVO "ARCHIVODETEXTO.TXT"
+
+las descargas multiples dejaran de funcionar y en el mismo terminal saltara un mensaje de error
 
   
