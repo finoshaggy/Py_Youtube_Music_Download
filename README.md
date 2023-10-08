@@ -29,4 +29,7 @@ Linux instalacion
   > abrir la terminal y hacer:
   > - python3 projec.py
 
+## ¿Como usar?
+--------------
+
   
