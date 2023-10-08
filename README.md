@@ -7,7 +7,12 @@ informacion general
 Un sensillo Script de Python para descargar musicas de Youtube
 con funciones como la descarga multiples de musica o solo descargar una.
 
-Dependencias
+Descarga:
+--------
+    git clone https://github.com/finoshaggy/Py_Youtube_Music_Download.git
+
+
+Dependencias:
 ------------
 - Python3.X
 - Pytube
