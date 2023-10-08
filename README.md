@@ -15,31 +15,31 @@ Dependencias
 
 # Linux instalacion
 
-  > ## PYTHON
+  ## PYTHON :
 
   ### Debian/Ubuntu :
-  > sudo apt install python3
+    sudo apt install python3
 
   ### Arch :
-  > sudo pacman -S python
+    sudo pacman -S python
 
   ### Pytube instalacion :
 
-  > pip install pytube
+    pip install pytube
 
   ## pip instalacion : 
 
   ### Ubuntu/Debian :
-  > sudo apt install pip
+    sudo apt install pip
 
   ### Arch :
-  > sudo pacman -S pip 
+    sudo pacman -S pip 
 
-¿ Como correr ?
-----------------
-# Linux:
-  > abrir la terminal y hacer:
-  > - python3 projec.py
+# ¿ Como correr ? :
+
+## Linux:
+    -- abrir la terminal y hacer:
+    python3 projec.py
 
 # Importante :
 
