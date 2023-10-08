@@ -8,8 +8,8 @@ informacion general
 Dependencias
 ------------
 
-  Python3.x
-  Pytube
+> Python3.x
+> Pytube
 
 Linux instalacion
 -----------------
