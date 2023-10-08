@@ -27,7 +27,7 @@ Dependencias
 
     pip install pytube
 
-  ## pip instalacion : 
+## pip instalacion : 
 
   ### Ubuntu/Debian :
     sudo apt install pip
