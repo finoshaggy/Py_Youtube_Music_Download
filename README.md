@@ -14,13 +14,13 @@ Dependencias
 Linux instalacion
 -----------------
 
-  Debian/Ubuntu :
-  sudo apt install python3
+  # Debian/Ubuntu :
+  ## sudo apt install python3
 
-  Arch :
-  sudo pacman -S python3
+  # Arch :
+  ## sudo pacman -S python3
 
-  Pytube instalacion :
+  # Pytube instalacion :
 
-  pip install pytube
+  ## pip install pytube
   
